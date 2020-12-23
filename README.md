@@ -1,2 +1,2 @@
 # TCPChat
-Simple TCP Chat
+Simple TCP chat developed using just Java
